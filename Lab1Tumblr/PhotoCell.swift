@@ -14,6 +14,7 @@ import AFNetworking
 class PhotoCell: UITableViewCell {
 
     @IBOutlet weak var cellImage: UIImageView!
+    var imgURL: URL!
     
     override func awakeFromNib() {
         super.awakeFromNib()
