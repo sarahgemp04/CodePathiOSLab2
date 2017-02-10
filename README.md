@@ -13,14 +13,11 @@
 **Simple Tumblr** A simple app that requests post info from a pre-made API
                   and shows photo posts in table view. Provides infinite scr                  and a pull to refresh, as well as an additional view for larger photo viewing.
 
-Here's a walkthrough of implemented user stories:
+Here is a walkthrough of implemented user stories from week 2:
 
-<img src='http://i.imgur.com/nSVFGv3.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://imgur.com/nSVFGv3
 
 
-And here is a walkthrough of implemented user stories from week 2:
-
-<img src='http://i.imgur.com/nSVFGv3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://cockos.com/licecap/)
