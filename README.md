@@ -1,4 +1,4 @@
-#Week 1 Lab- Tumblr
+#Week 2 Lab- Tumblr
 
 
 * SUBMITTED BY: Sarah Gemperle
@@ -15,7 +15,7 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/nSVFGv3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/nSVFGv3.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 And here is a walkthrough of implemented user stories from week 2:
